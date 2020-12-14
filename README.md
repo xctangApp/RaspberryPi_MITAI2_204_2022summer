@@ -67,7 +67,7 @@ https://www.raspberrypi.org/software/
     pi@raspberrypi:~ $ reboot
     ```
 - In your Raspberry Pi, Check the IP address: Run `$ ping raspberrypi.local` in your Raspberry Pi.
-- In your MBP, SSH into your pi from another computer. Default password is raspbrerry.
+- In your MBP, SSH into your pi from another computer. Default password is `raspberry`.
     ```
     ❯ ssh pi@192.168.86.200
     The authenticity of host '192.168.86.200 (192.168.86.200)' can't be established.
