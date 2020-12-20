@@ -50,7 +50,7 @@ python3 cam_draw.py
 - Draw a map
 ```
 cd ~/BrachiGraph
-wget -O - https://raw.githubusercontent.com/Shumingx/hello-pi/main/projects/brachio-graph/cam_draw.py > map_draw.py
+wget -O - https://raw.githubusercontent.com/Shumingx/hello-pi/main/projects/brachio-graph/map_draw.py > map_draw.py
 python3 map_draw.py
 ```
 
