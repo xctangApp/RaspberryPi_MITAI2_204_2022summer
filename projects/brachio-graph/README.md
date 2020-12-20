@@ -40,14 +40,14 @@ Power up the Raspberry Pi and test from Python Shell.
 https://www.brachiograph.art/get-started/drive.html
 
 #### Run example code
-- Take photo and Draw
+- Take photo and Draw (Need Camera setup)
 ```
 cd ~/BrachiGraph
 wget -O - https://raw.githubusercontent.com/Shumingx/hello-pi/main/projects/brachio-graph/cam_draw.py > cam_draw.py
 python3 cam_draw.py
 ```
 
-- Draw a map
+- Draw a map (images/africa.jpg)
 ```
 cd ~/BrachiGraph
 wget -O - https://raw.githubusercontent.com/Shumingx/hello-pi/main/projects/brachio-graph/map_draw.py > map_draw.py
