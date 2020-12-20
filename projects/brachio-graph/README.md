@@ -57,7 +57,7 @@ python3 map_draw.py
 - Draw a photo
 ```
 cd ~/BrachiGraph
-wget -O - https://raw.githubusercontent.com/Shumingx/hello-pi/main/projects/brachio-graph/map_draw.py > map_draw.py
+wget -O - https://raw.githubusercontent.com/Shumingx/hello-pi/main/projects/brachio-graph/photo_draw.py > photo_draw.py
 wget https://en.wikipedia.org/wiki/Mona_Lisa#/media/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg > images/monalisa.jpg
 python3 photo_draw.py monalisa
 ```
