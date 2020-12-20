@@ -9,7 +9,7 @@ bg = BrachioGraph(inner_arm, outer_arm)
 
 if __name__ == "__main__":
 
-    photo_name = sys.argv[0]
+    photo_name = sys.argv[1]
     # vectorise an image to json file
     image_to_json(photo_name, draw_contours=2, draw_hatch=16)
     # draw with the plotter
