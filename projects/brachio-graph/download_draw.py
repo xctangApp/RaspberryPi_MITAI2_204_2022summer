@@ -13,7 +13,7 @@ if __name__ == "__main__":
     file_url = sys.argv[1]
     file_object = requests.get(file_url)
     file_name = "download"
-    with open(file_name + ".jpg", "images") as local_file:
+    with open("images/" + file_name + ".jpg", "wb") as local_file:
         local_file.write(file_object.content)
 
     # vectorise an image to json file
