@@ -39,7 +39,7 @@ Power up the Raspberry Pi and test from Python Shell.
 
 https://www.brachiograph.art/get-started/drive.html
 
-#### Run example code
+#### Some examples
 - Take photo and Draw (Need Camera setup)
 ```
 cd ~/BrachiGraph
