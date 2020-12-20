@@ -4,13 +4,13 @@ https://www.brachiograph.art/index.html
 Raspberry Pi OS is installed and upgraded.
 
 #### Build the plotter
-Build the plotter.
 
 References:
-https://www.brachiograph.art/get-started/build.html
-https://www.brachiograph.art/get-started/wiring.html
-https://www.raspberrypi.org/documentation/usage/gpio/
-https://pinout.xyz/
+
+- https://www.brachiograph.art/get-started/build.html
+- https://www.brachiograph.art/get-started/wiring.html
+- https://www.raspberrypi.org/documentation/usage/gpio/
+- https://pinout.xyz/
 
 #### Install the software
 Install system packages:
@@ -33,7 +33,7 @@ cd BrachiGraph
 pip install -r requirements.txt
 ```
 
-####Start up the BrachioGraph
+#### Start up the BrachioGraph
 Power up the Raspberry Pi and test from Python Shell.
 https://www.brachiograph.art/get-started/drive.html
 
@@ -61,5 +61,5 @@ python3 map_draw.py
 
 
 
-#### common libraries
+#### some good libraries
 https://gpiozero.readthedocs.io/en/stable/index.html
