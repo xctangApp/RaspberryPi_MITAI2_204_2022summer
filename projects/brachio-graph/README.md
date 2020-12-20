@@ -62,6 +62,12 @@ wget -O - https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C
 python3 photo_draw.py monalisa
 ```
 
+- Download a photo and Draw
+```
+cd ~/BrachiGraph
+wget -O - https://raw.githubusercontent.com/Shumingx/hello-pi/main/projects/brachio-graph/download_draw.py > download_draw.py
+python3 download_draw.py "https://cdn.hpm.io/wp-content/uploads/2016/02/texas-and-new-hampshire-1000x666.jpg"
+```
 
 
 
