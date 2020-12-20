@@ -31,7 +31,7 @@ git clone https://github.com/evildmp/BrachioGraph.git
 ```
 Install Python packages
 ```
-cd BrachiGraph 
+cd BrachiGraph
 pip install -r requirements.txt
 ```
 
@@ -40,6 +40,11 @@ Power up the Raspberry Pi and test from Python Shell.
 https://www.brachiograph.art/get-started/drive.html
 
 #### Run example code
+```
+cd ~/BrachiGraph
+wget https://raw.githubusercontent.com/Shumingx/hello-pi/main/projects/brachio-graph/cam_draw.py
+python3 cam_draw.py
+```
 
 
 
