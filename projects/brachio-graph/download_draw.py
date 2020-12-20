@@ -17,6 +17,6 @@ if __name__ == "__main__":
         local_file.write(file_object.content)
 
     # vectorise an image to json file
-    image_to_json(photo_name, draw_contours=2, draw_hatch=16)
+    image_to_json(file_name, draw_contours=2, draw_hatch=16)
     # draw with the plotter
-    bg.plot_file("images/" + photo_name + ".json")
+    bg.plot_file("images/" + file_name + ".json")
