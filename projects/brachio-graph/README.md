@@ -49,8 +49,8 @@ python3 cam_draw.py
 - Draw a map (images/africa.jpg)
 ```
 cd ~/BrachiGraph
-wget -O - https://raw.githubusercontent.com/Shumingx/hello-pi/main/projects/brachio-graph/map_draw.py > map_draw.py
-python3 map_draw.py
+wget -O - https://raw.githubusercontent.com/Shumingx/hello-pi/main/projects/brachio-graph/africa_map_draw.py > africa_map_draw.py
+python3 africa_map_draw.py
 ```
 
 - Draw a photo
