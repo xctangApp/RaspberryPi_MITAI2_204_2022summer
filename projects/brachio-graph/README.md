@@ -1,4 +1,3 @@
-https://www.brachiograph.art/index.html
 
 #### Prerequisite:
 Raspberry Pi OS is installed and upgraded.
@@ -71,10 +70,8 @@ python3 download_draw.py "https://cdn.hpm.io/wp-content/uploads/2016/02/texas-an
 
 
 
-
-
-
-
-
-#### some good libraries
+#### some good libraries and references
 https://gpiozero.readthedocs.io/en/stable/index.html
+
+https://www.brachiograph.art/index.html
+
