@@ -1,4 +1,4 @@
-For 2021 SECC Division B project, suggested device to purchase. CanaKit Raspberry Pi 4 4GB Starter PRO Kit has OS pre-installed in Micro SD. 
+For 2021 SECC Division B project, suggested device to purchase is CanaKit Raspberry Pi 4 4GB Starter PRO Kit which has OS pre-installed in Micro SD in the kit.
 
 Below install guide is for Raspberry Pi without OS pre-installed in Micro-SD card.
 
