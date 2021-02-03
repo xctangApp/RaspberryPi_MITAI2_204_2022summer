@@ -1,4 +1,8 @@
-This install guide is for Raspberry Pi without OS pre-installed in Micro-SD card.
+For 2021 SECC Division B project, suggested device to purchase. CanaKit Raspberry Pi 4 4GB Starter PRO Kit has OS pre-installed in Micro SD. 
+
+Below install guide is for Raspberry Pi without OS pre-installed in Micro-SD card.
+
+For more detailed installation info, please check https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up
 
 ## Install Raspberry Pi OS using Raspberry Pi Imager
 
