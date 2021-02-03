@@ -1,3 +1,5 @@
+This install guide is for Raspberry Pi board without OS pre-installed in Micro-SD card.
+
 ## Install Raspberry Pi OS using Raspberry Pi Imager
 
 #### Download NOOBS
