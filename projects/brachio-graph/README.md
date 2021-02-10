@@ -15,10 +15,6 @@ References:
 
  Open a terminal RUN 
  
- ```
- wget -O - https://raw.githubusercontent.com/ciedfwsecc/2021SECC_DivisionB_Project/main/projects/brachio-graph/enviroment-setup.sh | bash
- 
- ```
 - Install system packages:
 ```
 sudo apt install -y python3-venv pigpiod libjbig0 libjpeg-dev liblcms2-2 libopenjp2-7 libtiff5 libwebp6 libwebpdemux2 libwebpmux3 libzstd1 libatlas3-base libgfortran5 git
