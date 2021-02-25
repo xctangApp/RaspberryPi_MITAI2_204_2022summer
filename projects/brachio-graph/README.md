@@ -14,12 +14,12 @@ References:
 - https://www.raspberrypi.org/documentation/usage/gpio/
 - https://pinout.xyz/
 
-#### Use bash command to set up enviroment
+#### Use bash command to set up enviroment (one command setup)
 ```
 wget -O - https://raw.githubusercontent.com/ciedfwsecc/2021SECC_DivisionB_Project/main/projects/brachio-graph/enviroment-setup.sh | bash
 
 ```
-
+#### Or follow the steps below
 #### Install the software
 
  Open a terminal RUN 
