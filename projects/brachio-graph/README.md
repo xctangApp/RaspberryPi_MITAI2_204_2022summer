@@ -8,6 +8,7 @@ References:
 
 - https://www.brachiograph.art/get-started/build.html
 - https://www.brachiograph.art/get-started/wiring.html
+- https://www.brachiograph.art/how-to/calibrate.html
 - https://www.raspberrypi.org/documentation/usage/gpio/
 - https://pinout.xyz/
 
