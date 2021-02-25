@@ -9,6 +9,8 @@ References:
 - https://www.brachiograph.art/get-started/build.html
 - https://www.brachiograph.art/get-started/wiring.html
 - https://www.brachiograph.art/how-to/calibrate.html
+- https://www.brachiograph.art/how-to/use-turtle-draw.html
+- https://www.brachiograph.art/explanation/understand-plotter-geometry.html#understand-plotter-geometry
 - https://www.raspberrypi.org/documentation/usage/gpio/
 - https://pinout.xyz/
 
