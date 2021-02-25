@@ -11,7 +11,7 @@ References:
 - https://www.raspberrypi.org/documentation/usage/gpio/
 - https://pinout.xyz/
 
-#### Use bash command to install all required packages
+#### Use bash command to set up enviroment
 ```
 wget -O - https://raw.githubusercontent.com/ciedfwsecc/2021SECC_DivisionB_Project/main/projects/brachio-graph/enviroment-setup.sh | bash
 
@@ -73,7 +73,7 @@ python3 photo_draw.py monalisa
 - Download a photo and Draw
 ```
 cd ~/BrachiGraph
-wget --no-cache -O - https://raw.githubusercontent.com/Shumingx/hello-pi/main/projects/brachio-graph/download_draw.py > download_draw.py
+wget --no-cache -O - https://raw.githubusercontent.com/ciedfwsecc/2021SECC_DivisionB_Project/main/projects/brachio-graph/download_draw.py > download_draw.py
 python3 download_draw.py "https://cdn.hpm.io/wp-content/uploads/2016/02/texas-and-new-hampshire-1000x666.jpg"
 ```
 
