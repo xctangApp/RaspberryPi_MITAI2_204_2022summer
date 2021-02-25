@@ -11,6 +11,12 @@ References:
 - https://www.raspberrypi.org/documentation/usage/gpio/
 - https://pinout.xyz/
 
+#### Use bash command to install all required packages
+```
+wget -O - https://raw.githubusercontent.com/ciedfwsecc/2021SECC_DivisionB_Project/main/projects/brachio-graph/enviroment-setup.sh | bash
+
+```
+
 #### Install the software
 
  Open a terminal RUN 
