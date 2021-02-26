@@ -40,8 +40,7 @@ git clone https://github.com/evildmp/BrachioGraph.git
 ```
 - Install Python packages
 ```
-cd BrachiGraph
-pip install -r requirements.txt
+pip3 install -r BrachioGraph/requirements.txt
 ```
 
 #### Start up the BrachioGraph
