@@ -19,29 +19,6 @@ References:
 wget -O - https://raw.githubusercontent.com/ciedfwsecc/2021SECC_DivisionB_Project/main/projects/brachio-graph/enviroment-setup.sh | bash
 
 ```
-#### Or follow the steps below
-#### Install the software
-
- Open a terminal RUN 
- 
-- Install system packages:
-```
-sudo apt install -y python3-venv pigpiod libjbig0 libjpeg-dev liblcms2-2 libopenjp2-7 libtiff5 libwebp6 libwebpdemux2 libwebpmux3 libzstd1 libatlas3-base libgfortran5 git
-```
-- Set up a virtual environment
-```
-python3 -m venv env
-source env/bin/activate
-```
-- Clone the BrachioGraph repository
-```
-cd
-git clone https://github.com/evildmp/BrachioGraph.git
-```
-- Install Python packages
-```
-pip3 install -r BrachioGraph/requirements.txt
-```
 
 #### Start up the BrachioGraph
 
