@@ -1,3 +1,5 @@
+#draw a photo image
+
 import sys
 from brachiograph import BrachioGraph
 from linedraw import *
