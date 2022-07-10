@@ -1,3 +1,5 @@
+#download a new image and draw
+
 import sys
 import requests
 from brachiograph import BrachioGraph
