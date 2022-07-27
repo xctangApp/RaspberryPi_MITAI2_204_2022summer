@@ -1,5 +1,5 @@
 
-#### Prerequisite:
+#### Prerequisites:
 Raspberry Pi OS is installed and upgraded.
 
 #### Build the plotter
